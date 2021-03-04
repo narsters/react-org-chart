@@ -5,16 +5,11 @@ module.exports = {
 }
 
 function getTextForTitle(datum) {
-  if (!datum.person || !datum.person.totalReports) {
+  if (!datum.person || !datum.person.hasChild) {
     return ''
   }
 
-  const {
-    person: { totalReports },
-  } = datum
-  const pluralEnding = totalReports > 1 ? 's' : ''
-
-  return `${totalReports} supervisee${pluralEnding}`
+  return `View Direct Reports`
 }
 
 const departmentAbbrMap = {
