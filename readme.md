@@ -87,11 +87,11 @@ What we added:
 
 ### Usage
 
-You have a complete working example in the **[examples/](https://github.com/unicef/react-org-chart/tree/master/examples)** folder 
+You have a complete working example in the **[examples/](https://github.com/narsters/react-org-chart/tree/master/examples)** folder 
 
 ```jsx
 import React from 'react'
-import OrgChart from '@unicef/react-org-chart'
+import OrgChart from '@narsters/react-org-chart'
 
 handleLoadConfig = () => {
    const { config } = this.state
