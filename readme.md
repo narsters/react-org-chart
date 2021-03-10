@@ -138,7 +138,7 @@ render(){
 # Development
 
 ```bash
-git clone https://github.com/unicef/react-org-chart.git
+git clone https://github.com/narsters/react-org-chart.git
 cd react-org-chart
 npm install
 ```
@@ -169,22 +169,9 @@ To deploy the example to gh-pages site
 npm run deploy
 ```
 
-## About UNICEF
-
-[UNICEF](https://www.unicef.org/) works in over 190 countries and territories to protect the rights of every child. UNICEF has spent more than 70 years working to improve the lives of children and their families. In UNICEF, we **believe all children have a right to survive, thrive and fulfill their potential – to the benefit of a better world**.
-
-[Donate](https://donate.unicef.org/donate/now)
-
-
-## Collaborations and support
-
-Just fork the project and make a pull request. You may also [consider donating](https://donate.unicef.org/donate/now).
-
-
 # License
 
-Copyright 2019-2020 UNICEF http://www.unicef.org
-Developed by ICTD, Solutions Center and Support, Digital Tools and Platforms, Custom Applications Team, New York.
+Copyright 2021 Narsters
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
